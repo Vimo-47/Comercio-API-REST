@@ -1,10 +1,5 @@
 # Comercio-API-REST
-###### Proyecto de ejemplo
+###### Proyecto resultado de un curso de Python realizado en Udemy y creado por *Gastón Fenske*.
+---
 
-===
-
-Este código es el resultado de un curso de Python realizado en Udemy y creado por *Gastón Fenske*
-
-
-Underline 2
-===
+Este proyecto consiste en el desarrollo de un backend para un comercio utilizando una arquitectura basada en **API-REST**.
